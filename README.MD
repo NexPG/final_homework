@@ -18,6 +18,6 @@
 
 ```docker run -d -p 8000:8000 --name url-shortener docker_homework```
 
-## After starting the container, the service will be available in your browser at:
+## After starting the app, the service will be available in your browser at:
 
 - Swagger UI:    ```http://localhost:8000/docs```
