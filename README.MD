@@ -12,7 +12,7 @@
 
 ### load container:
 
-```docker podman load -i myproject-full.tar.gz```
+```docker load -i myproject-full.tar.gz```
 
 ### Launch the container:
 
